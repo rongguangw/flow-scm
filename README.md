@@ -14,6 +14,8 @@ This is a PyTorch implementation of the [Flow-SCM paper](https://arxiv.org/abs/2
 }
 ```
 
+This work builds on Pawlowski, Castro, and Glocker's [paper](https://arxiv.org/abs/2006.06485) and the code in this repository is adapted from their [codebase](https://github.com/biomedia-mira/deepscm).
+
 ### Enviroment setup
 
 ```
